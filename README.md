@@ -7,12 +7,12 @@
 
 
 
-    ### How to use this dataset from drive directly through "YOLOv5_Currency_detection.ipynb":
+### How to use this dataset from drive directly through "YOLOv5_Currency_detection.ipynb":
 
-        1- open the link, select "Add shortcut to drive".
-        2- select a place to add the shortcut in.
-        3- open the notebook, mount your drive, and then you will find the shortcut of the zipped file at the place you selected.
-        4- now, you can unzip the dataset and start working on it.
+    1- open the link, select "Add shortcut to drive".
+    2- select a place to add the shortcut in.
+    3- open the notebook, mount your drive, and then you will find the shortcut of the zipped file at the place you selected.
+    4- now, you can unzip the dataset and start working on it.
     
 ### You should notice some points::
 
