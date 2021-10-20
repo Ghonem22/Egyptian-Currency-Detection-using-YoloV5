@@ -30,7 +30,7 @@
    
    #### This is the link of Data Generation repo:
    
-            https://github.com/Ghonem22/Image-Data-Generation
+   https://github.com/Ghonem22/Image-Data-Generation
 
   
   
