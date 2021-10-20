@@ -7,7 +7,9 @@
 
 
 
-#### How to use this dataset from drive directly through "YOLOv5_Currency_detection.ipynb":
+
+
+### How to use this dataset from drive directly through "YOLOv5_Currency_detection.ipynb":
 
    1- open the link, select "Add shortcut to drive".
    
@@ -18,7 +20,7 @@
    4- now, you can unzip the dataset and start working on it.
    
     
-#### You should notice some points::
+### You should notice some points::
 
    1- this dataset is artifically generated using python script, it won't be realistic, but its result will be kind of good. 
    
@@ -31,11 +33,14 @@
   
   
   
+  
+  
 ## Trained Model
    You can Download and use the trained model directly from this drice link:
       https://drive.google.com/file/d/1KY1TLtGI0l8gb7N8PMag2yQv2nPaGrB7/view?usp=sharing
 
-#### Given That:
+
+### Given That:
    This model is trained for 20 epoch only, you can't rely on its results.
 
 
