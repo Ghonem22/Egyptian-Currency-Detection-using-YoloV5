@@ -27,7 +27,9 @@
    2- You can enhance the results with very little realistic dataset by building on the model you trained using the generated dataset.
    
    3- there are some techniques we can use with the generation code to get a realistic generated dataset as possible.
-        This is the link of Data Generation repo:
+   
+   #### This is the link of Data Generation repo:
+   
             https://github.com/Ghonem22/Image-Data-Generation
 
   
